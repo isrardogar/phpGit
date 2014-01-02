@@ -1,6 +1,13 @@
 <!-- Edited by developer -->
 <?php 
-    
-    
-    echo "this feature is added by develoepr";
-?>
+
+/**
+ * 
+ */
+class site {
+	
+	function __construct($argument) {
+		echo "this is controller";
+	}
+}
+
