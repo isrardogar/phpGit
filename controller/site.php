@@ -6,8 +6,12 @@
  */
 class site {
 	
-	function __construct($argument) {
-		echo "this is controller";
+	function __construct() {
+		
 	}
+    
+    function index(){
+        echo 'this is index';
+    }
 }
 
